@@ -76,4 +76,5 @@ function nextStage()
 	while (right.firstChild)
 	right.removeChild(right.firstChild);
 	newStage();
+	
 }
